@@ -24,3 +24,4 @@ The primary source of data used here data sale .csv and this is an open sourceda
 SEECT*FROM TABLE 1
 WHERE CONDITION=TRUE
 ````
+https://github.com/adaobikubiri/LITA-CAPSTONE-PROJECT/blob/main/CAPSTONE%20BAR%20CHART.png
